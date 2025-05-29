@@ -1,0 +1,42 @@
+# Simple File Storage Website
+
+This is a simple web application that allows users to **upload**, **list**, and **download** files. It includes a **frontend** built with HTML, CSS, and JavaScript, and a **backend** powered by Python Flask.
+
+---
+
+## Features
+
+- User-friendly file upload
+- List all uploaded files
+- Download files
+- Clear error messages for upload issues
+- CORS enabled for frontend-backend communication
+
+---
+
+## Technologies Used
+
+- **Backend:** Python, Flask, Flask-CORS
+- **Frontend:** HTML, CSS, JavaScript
+- **Tools:** VS Code, Live Server (for frontend)
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x installed on your machine.  
+  Download from [python.org](https://www.python.org/downloads/).
+
+- Recommended: VS Code installed with Live Server extension for frontend.
+
+---
+
+### Setup Instructions
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/simple-file-storage.git
+   cd simple-file-storage
